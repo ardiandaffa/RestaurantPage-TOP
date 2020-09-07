@@ -1,0 +1,26 @@
+{
+  "name": "restaurantpage-top",
+  "version": "1.0.0",
+  "description": "theodinproject exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ardiandaffa/RestaurantPage-TOP.git"
+  },
+  "author": "Daffa Rizqi A.F",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ardiandaffa/RestaurantPage-TOP/issues"
+  },
+  "homepage": "https://github.com/ardiandaffa/RestaurantPage-TOP#readme",
+  "devDependencies": {
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
+  },
+  "dependencies": {
+    "materialize-css": "^1.0.0-rc.2"
+  }
+}

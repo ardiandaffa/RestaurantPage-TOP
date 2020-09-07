@@ -1,0 +1,44 @@
+
+
+body {
+    background-image: linear-gradient(
+        rgba(0, 0, 0, 0.5),
+        rgba(0, 0, 0, 0.5)
+      ),
+      url(pizzapic.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100%;
+    background-attachment: fixed;
+}
+
+h1 {
+    font-family: sans-serif;
+    font-size: 3rem;
+    text-align: center;
+    color: rgba(0,0,0,.9);
+    background-color: white;
+    width: 70%;
+    margin-top: 5em;
+    
+}
+
+.content-container-main {
+    width: 80%;
+    margin: 4rem;
+    font-size: 2rem;
+    color: white;
+    font-family: sans-serif;
+    height: 20%;
+}
+.nav-class {
+    background-color: white;
+    height: 4em;
+    font-size: larger;
+}
+
+.a-class{
+    margin-top: 1em;
+    margin: 1em;
+}
