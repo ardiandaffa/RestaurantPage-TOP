@@ -1,6 +1,6 @@
 const createMenu = () => {
     return `<h1>Menu</h1>
-    <div class="card-deck">
+    <div class="card-deck menu-margin">
       <div class="card">
         <img class="card-img-top" src="/dist/pizzapict/pizza1.jpeg" alt="Card image cap">
         <div class="card-body">
